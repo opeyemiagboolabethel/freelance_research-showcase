@@ -1,0 +1,7 @@
+measure,comparison,value,unit,source,notes
+sample,valid survey responses,422,respondents,anonymized source study,cross-sectional survey
+reliability,recruitment practices scale,0.858,Cronbach alpha,anonymized source study,ten items
+reliability,multicultural collaboration scale,0.873,Cronbach alpha,anonymized source study,ten items
+reliability,team productivity scale,0.897,Cronbach alpha,anonymized source study,ten items
+correlation,cross cultural recruitment vs productivity,0.593,Pearson r,anonymized source study,p less than 0.001
+correlation,multicultural collaboration vs productivity,0.745,Pearson r,anonymized source study,p less than 0.001
