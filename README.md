@@ -4,6 +4,15 @@
 
 ### [Explore the showcase page](docs/index.html) | [Read three additional case studies](docs/cases.html)
 
+## Client-friendly case studies
+
+Open the visual case studies directly on the professional website; technical files below are secondary evidence.
+
+- [Social trust, institutional confidence and wellbeing](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/pages/case-social-trust.html)
+- [Hybrid work and employee job satisfaction](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/pages/case-hybrid-work.html)
+- [Asset–liability management and organisational performance](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/pages/case-asset-liability.html)
+- [Cross-cultural recruitment and team productivity](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/pages/case-cross-cultural.html)
+
 ## Published studies
 
 - [US Social Trust, Institutional Confidence and Wellbeing](projects/01-gss-social-trust/RESEARCH_REPORT.md): 2024 NORC GSS public-data statistical analysis, weighted survey descriptions, adjusted ordinal modeling and interpretation. [SPSS replication syntax](projects/01-gss-social-trust/analysis/spss_descriptives.sps).
