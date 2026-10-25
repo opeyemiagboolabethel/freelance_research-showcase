@@ -1,0 +1,11 @@
+measure,comparison,value,unit,source,notes
+sample,valid survey responses,384,respondents,anonymized source study,cross-sectional survey
+reliability,hybrid policy clarity,0.879,Cronbach alpha,anonymized source study,ten survey items
+reliability,HR support,0.899,Cronbach alpha,anonymized source study,ten survey items
+reliability,employee satisfaction,0.908,Cronbach alpha,anonymized source study,ten survey items
+correlation,policy clarity vs satisfaction,0.584,Pearson r,anonymized source study,p less than 0.001
+correlation,HR support vs satisfaction,0.787,Pearson r,anonymized source study,p less than 0.001
+regression,explained variation in satisfaction,0.621,R squared,anonymized source study,multiple regression
+regression,HR support conditional contribution,0.742,standardized beta,anonymized source study,p less than 0.001
+regression,policy clarity conditional contribution,0.063,standardized beta,anonymized source study,p equals 0.155
+regression,overall regression test,311.793,F(2 381),anonymized source study,p less than 0.001
