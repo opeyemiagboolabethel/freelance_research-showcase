@@ -1,0 +1,7 @@
+measure,comparison,value,unit,source,notes
+sample,implied regression sample,422,respondents,anonymized source study,inferred from F(3 418) denominator df
+regression,diversification adjusted association,0.264,standardized beta,anonymized source study,p less than 0.001
+regression,asset liability matching adjusted association,0.131,standardized beta,anonymized source study,p equals 0.031
+regression,liquidity management adjusted association,0.295,standardized beta,anonymized source study,p less than 0.001
+regression,explained variation in performance,0.352,R squared,anonymized source study,multiple regression
+regression,overall test,75.701,F(3 418),anonymized source study,p less than 0.001
