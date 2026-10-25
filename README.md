@@ -18,6 +18,6 @@ Quantitative analysis (SPSS, R, Stata, Python); qualitative/thematic and mixed-m
 The GSS analysis uses publicly accessible NORC survey data; its results were actually generated in Python. SPSS syntax was prepared, but SPSS Viewer output and independent R survey replication were not generated. Three previous engagements are presented through anonymous summaries only; private respondent-level datasets, SPSS Viewer files and theses have not been uploaded. We will publish additional client assets only with permission and privacy review.
 
 ### Contact
-[Professional portfolio](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/) · opeyemi@onelightanalytics.com · +234 704 458 7947
+[Professional portfolio](https://opeyemi-agboola-portfolio.opeyemiagboola9794.workers.dev/) · opeyemi@onelightanalytics.com · +234 707 008 4679
 
-**This repository is intended to be the single consolidated research showcase.** A neutral repository name can be set later in GitHub Settings without deleting this project.
+**This repository is intended to be the single consolidated research showcase.** The consolidated repository is now named freelance_research-showcase.
